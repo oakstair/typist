@@ -1,8 +1,9 @@
 # Typist
 
-Let text be typed on yout home page as a nice effect. 
+Let text be typed on your home page as a nice effect. 
 
-For a demo you may visit my home page http://www.oakstair.se where it is used.
+For a demo you may visit [my home page](http://www.oakstair.se) where it is used.
+
 
 ## Setup
 Include oakstair-typist.js in your page.
@@ -84,3 +85,13 @@ Does not depend on anything.
 
 ## Source code
 Use it any way you want.
+
+## Background
+When creating my home page I bought the [itsMe vcard template](https://themeforest.net/item/itsme-responsive-vcardcvresume-template/19665121) from envato market.
+
+That template was using another [Typist project](https://github.com/unamohq/Typist) for typing text.
+The problem was that that project was buggy and there where no one willing to fix the bugs.
+So I decided to write my own version to get my home page up and running. 
+
+
+
